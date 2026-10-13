@@ -5,8 +5,7 @@
 This academic research paper explores the applications of data science in healthcare, including predictive analytics, medical imaging, and drug discovery. It also examines the use of data-driven technologies during the COVID-19 pandemic, including Aarogya Setu for contact tracing and risk assessment.
 
 ## Document
-
-[**Read the Academic Research Paper (PDF)**](# Data Science in Healthcare
+https://github.com/KCoder29/data-science-in-healthcare/blob/main/Data_Science_in_Healthcare_Academic_Research_Paper.pdf
 
 ## Overview
 
